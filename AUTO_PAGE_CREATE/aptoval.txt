@@ -6,3 +6,6 @@
 ---------------------------------------------
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.136-perf-version=1-SMP-PREEMPT-Fri-Sep-15-184942-CST-2023-machine=aarch64Linux-4.19.136-perf-aarch64-with-libcaarch64
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.136-perf-version=1-SMP-PREEMPT-Fri-Sep-15-184942-CST-2023-machine=aarch64Linux-4.19.136-perf-aarch64-with-libcaarch64
+
+
+8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=5.4.210-android12-9-660816-g89794ce8319b-ab415-version=1-SMP-PREEMPT-Tue-May-16-170602-CST-2023-machine=aarch64Linux-5.4.210-android12-9-660816-g89794ce8319b-ab415-aarch64-with-libcaarch64
