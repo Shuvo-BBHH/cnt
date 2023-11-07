@@ -1,6 +1,6 @@
 #==========================================================================================================
 4-physical-8-logical-unameresultsystem=Windows-node=WALTON-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12-GenuineIntel
 #===============================[PAID 6/11/2023]=============================================================
-
+8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.136-perf-version=1-SMP-PREEMPT-Fri-Sep-15-184942-CST-2023-machine=aarch64Linux-4.19.136-perf-aarch64-with-libcaarch64
 
 #============================================================================================================
