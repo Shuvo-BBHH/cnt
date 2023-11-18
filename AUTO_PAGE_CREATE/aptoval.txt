@@ -7,3 +7,4 @@
 #===================================free=========================================================================
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.157-perf-version=1-SMP-PREEMPT-Sun-Oct-8-105444-CST-2023-machine=aarch64Linux-4.19.157-perf-aarch64-with-libcaarch64
 
+4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-3LVHI67-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
