@@ -6,3 +6,4 @@
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.19.157-perf-g836e7cd4cf74-version=1-SMP-PREEMPT-Mon-Apr-17-222435-CST-2023-machine=aarch64Linux-4.19.157-perf-g836e7cd4cf74-aarch64-with-libcaarch64
 #===================================free========================================================================
 4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-QIBFLAV-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
+8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.190-22623735-abM405FDDS2CVL1-version=2-SMP-PREEMPT-Thu-Dec-15-195851-KST-2022-machine=aarch64Linux-4.14.190-22623735-abM405FDDS2CVL1-aarch64-with-libcaarch64
