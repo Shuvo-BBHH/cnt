@@ -10,3 +10,4 @@
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.190-22623735-abM405FDDS2CVL1-version=2-SMP-PREEMPT-Thu-Dec-15-195851-KST-2022-machine=aarch64Linux-4.14.190-22623735-abM405FDDS2CVL1-aarch64-with-libcaarch64
 
 4-physical-8-logical-unameresultsystem=Windows-node=Humais-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
+4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-RO6LL9L-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-45-Stepping-7-GenuineIntel
