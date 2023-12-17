@@ -3,3 +3,4 @@
 4-physical-8-logical-unameresultsystem=Windows-node=SHAN-SOOMRO-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-357GJG2-release=10-version=10.0.18363-machine=AMD64Windows-10-10.0.18363-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-Q71SC2T-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-94-Stepping-3-GenuineIntel
+4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-HD2I3O3-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
