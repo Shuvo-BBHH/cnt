@@ -1,2 +1,3 @@
  4-physical-8-logical-unameresultsystem=Windows-node=WALTON-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12-GenuineIntel
 2-physical-2-logical-unameresultsystem=Windows-node=DESKTOP-P7J28NU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-23-Stepping-10-GenuineIntel
+4-physical-8-logical-unameresultsystem=Windows-node=Humais-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-GenuineIntel
