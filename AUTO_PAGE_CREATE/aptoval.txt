@@ -10,3 +10,4 @@
 #--------test---------------------------------------------------------------------
 4-physical-8-logical-unameresultsystem=Windows-node=sona-release=10-version=10.0.19044-machine=AMD64Windows-10-10.0.19044-SP0AMD64Intel64-Family-6-Model-94-Stepping-3-GenuineIntel
 4-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-ORO7UJS-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel====conferm==
+4-physical==create==-4-logical-uname==create==result==create==system===create==Windows==create====create==-node===create==DESKTOP-ORO7UJS==create====create==-release===create==10==create====create==-version===create==10.0.19045==create====create==-machine===create==AMD64==create====create==Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3==create==-GenuineIntel
