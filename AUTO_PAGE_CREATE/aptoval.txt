@@ -1,9 +1,6 @@
 #--------------------MY key------------------------------------------------
 4-physical-8-logical-unameresultsystem=Windows-node=WALTON-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12-GenuineIntel
-2-physical-2-logical-unameresultsystem=Windows-node=DESKTOP-P7J28NU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-23-Stepping-10-GenuineIntel
-4-physical==create==-8-logical-uname==create==result==create==system===create==Windows==create====create==-node===create==WALTON==create====create==-release===create==10==create====create==-version===create==10.0.22621==create====create==-machine===create==AMD64==create====create==Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12==create==-GenuineIntel
-2-physical-2-logical-unameresultsystem=Windows-node=DESKTOP-P7J28NU-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-23-Stepping-10-GenuineIntel
-4-physicalpgpg_crcr-8-logical-unamepg_crresultpgpg_crcrsystem=pgpg_crcrWindowspgpg_crcrpgpg_crcr-node=pgpg_crcrWALTONpgpg_crcrpgpg_crcr-release=pgpg_crcr10pgpg_crcrpgpg_crcr-version=pgpg_crcr10.0.22621pgpg_crcrpgpg_crcr-machine=pgpg_crcrAMD64pgpg_crcrpg_crWindows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12pgpg_crcr-GenuineIntel
+
 
 #-----------------paid------------------------------------------
 
