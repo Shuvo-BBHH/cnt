@@ -8,3 +8,4 @@
 8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.186-25578192-version=1-SMP-PREEMPT-Wed-Feb-8-161033-07-2023-machine=aarch64Linux-4.14.186-25578192-aarch64-with-libcaarch64   |9
 #--------test---------------------------------------------------------------------
 4---physical---4---logical-unameresultsystem=Windows---node=DESKTOP-C6HLO4C---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64---Family---6---Model---60---Stepping---3---GenuineIntel
+4-physicalpgpg_crcr-4-logical-unamepg_crresultpgpg_crcrsystem=pgpg_crcrWindowspgpg_crcrpgpg_crcr-node=pgpg_crcrDESKTOP-C6HLO4Cpgpg_crcrpgpg_crcr-release=pgpg_crcr10pgpg_crcrpgpg_crcr-version=pgpg_crcr10.0.19045pgpg_crcrpgpg_crcr-machine=pgpg_crcrAMD64pgpg_crcrpg_crWindows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3pgpg_crcr-GenuineIntel
