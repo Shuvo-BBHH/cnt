@@ -12,4 +12,6 @@
 4-physicalpgpg_crcr-8-logical-unamepg_crresultpgpg_crcrsystem=pgpg_crcrWindowspgpg_crcrpgpg_crcr-node=pgpg_crcrSHAN-SOOMROpgpg_crcrpgpg_crcr-release=pgpg_crcr10pgpg_crcrpgpg_crcr-version=pgpg_crcr10.0.19045pgpg_crcrpgpg_crcr-machine=pgpg_crcrAMD64pgpg_crcrpg_crWindows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3pgpg_crcr-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-CNU7JN3-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 4-physical-8-logical-unameresultsystem=Windows-node=sona-release=10-version=10.0.19044-machine=AMD64Windows-10-10.0.19044-SP0AMD64Intel64-Family-6-Model-94-Stepping-3-GenuineIntel
+4-physical-8-logical-unameresultsystem=Windows-node=DESKTOP-28UOSS0-release=10-version=10.0.22621-machine=AMD64Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-140-Stepping-1-GenuineI
+
 
