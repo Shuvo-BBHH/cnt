@@ -9,3 +9,4 @@
 #--------test---------------------------------------------------------------------
 4-physicalxxxx-8-logical-unameresultsystem=xxxxxWindowsxxxxxxxxx-node=xxxxxSHAN-SOOMROxxxxxxxxx-release=xxxxx10xxxxxxxxx-version=xxxxx10.0.19045xxxxxxxxx-machine=xxxxxAMD64xxxxxWindows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3xxxx-GenuineIntel
 
+4-physicalpgpg_crcr-8-logical-unamepg_crresultpgpg_crcrsystem=pgpg_crcrWindowspgpg_crcrpgpg_crcr-node=pgpg_crcrSHAN-SOOMROpgpg_crcrpgpg_crcr-release=pgpg_crcr10pgpg_crcrpgpg_crcr-version=pgpg_crcr10.0.19045pgpg_crcrpgpg_crcr-machine=pgpg_crcrAMD64pgpg_crcrpg_crWindows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3pgpg_crcr-GenuineIntel
