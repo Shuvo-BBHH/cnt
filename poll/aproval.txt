@@ -4,3 +4,6 @@ ___________________MY_________________________________
 
 2-physical-poll-setup--4-logical-uname-poll-setup-result-poll-setup-system=-poll-setup-Windows-poll-setup--poll-setup--node=-poll-setup-DESKTOP-OHMFLF1-poll-setup--poll-setup--release=-poll-setup-10-poll-setup--poll-setup--version=-poll-setup-10.0.19045-poll-setup--poll-setup--machine=-poll-setup-AMD64-poll-setup--poll-setup-Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-poll-setup--GenuineIntel  |20/3
 4-physical-poll-setup--4-logical-uname-poll-setup-result-poll-setup-system=-poll-setup-Windows-poll-setup--poll-setup--node=-poll-setup-DESKTOP-ORO7UJS-poll-setup--poll-setup--release=-poll-setup-10-poll-setup--poll-setup--version=-poll-setup-10.0.19045-poll-setup--poll-setup--machine=-poll-setup-AMD64-poll-setup--poll-setup-Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-poll-setup--GenuineIntel    |20/3
+
+
+4-physical-poll-setup--8-logical-uname-poll-setup-result-poll-setup-system=-poll-setup-Windows-poll-setup--poll-setup--node=-poll-setup-Humais-poll-setup--poll-setup--release=-poll-setup-10-poll-setup--poll-setup--version=-poll-setup-10.0.19045-poll-setup--poll-setup--machine=-poll-setup-AMD64-poll-setup--poll-setup-Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-42-Stepping-7-poll-setup--GenuineIntel
