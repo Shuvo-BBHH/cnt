@@ -12,3 +12,5 @@
 #--------test---------------------------------------------------------------------
 2-physical==create==-4-logical-uname==create==result==create==system===create==Windows==create====create==-node===create==DESKTOP-B714E0A==create====create==-release===create==10==create====create==-version===create==10.0.19045==create====create==-machine===create==AMD64==create====create==Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-69-Stepping-1==create==-GenuineIntel
 
+#------------------------------------------------------
+4-physical-poll-setup--4-logical-uname-poll-setup-result-poll-setup-system=-poll-setup-Windows-poll-setup--poll-setup--node=-poll-setup-DESKTOP-10OBPUP-poll-setup--poll-setup--release=-poll-setup-10-poll-setup--poll-setup--version=-poll-setup-10.0.19045-poll-setup--poll-setup--machine=-poll-setup-AMD64-poll-setup--poll-setup-Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-poll-setup--GenuineIntel
