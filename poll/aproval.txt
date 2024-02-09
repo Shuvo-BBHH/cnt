@@ -14,4 +14,3 @@ ___________________MY_________________________________
 #__________________________________________________________________________________________________________
 
 8-physical-loder--8-logical-uname-loder-result-loder-system=-loder-Linux-loder--loder--node=-loder-localhost-loder--loder--release=-loder-4.14.186-00967-g54a5dbc8653a-dirty-loder--loder--version=-loder--loder-1-SMP-PREEMPT-Fri-Dec-17-18-loder-09-loder-35-CST-2021-loder--
-4-physical---8-logical-unameresult--system=Windows---node=DESKTOP-3APG78F---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-158-Stepping-9---GenuineIntel
