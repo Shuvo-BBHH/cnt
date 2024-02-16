@@ -10,4 +10,4 @@
 #-----------------------------------------------------------------------------------
 8-physical=M=cr=B=-8-logical-uname=M=cr=B=result=M=cr=B=system==M=cr=B=Linux=M=cr=B==M=cr=B=-node==M=cr=B=localhost=M=cr=B==M=cr=B=-release==M=cr=B=4.14.117-perf=M=cr=B==M=cr=B==M=cr=B=-version==M=cr=B=create2-SMP-PREEMPT-Wed-Nov-30-16=M=cr=B=27=M=cr=B=51-CST-2022=M=cr=B==M=cr=B=-machine==M=cr=B=aarch64=M=cr=B==M=cr=B=Linux-4.14.117-perf=M=cr=B=-aarch64-with-libcaarch64
 #--------test---------------------------------------------------------------------
- 8-physical---16-logical-unameresult--system=Windows---node=WIN-A0N2ICTRBA4---release=10---version=10.0.17763---machine=AMD64Windows-10-10.0.17763-SP0AMD64Intel64-Family-6-Model-26-Stepping-5---GenuineIntel
+2-physical---4-logical-unameresult--system=Windows---node=DESKTOP-TD2GMCQ---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9---GenuineIntel
