@@ -5,8 +5,7 @@
 
 #-----------------paid------------------------------------------
 2-physicalpgpg_crcr-4-logical-unamepg_crresultpgpg_crcrsystem=pgpg_crcrWindowspgpg_crcrpgpg_crcr-node=pgpg_crcrDESKTOP-5L64H5Apgpg_crcrpgpg_crcr-release=pgpg_crcr10pgpg_crcrpgpg_crcr-version=pgpg_crcr10.0.19045pgpg_crcrpgpg_crcr-machine=pgpg_crcrAMD64pgpg_crcrpg_crWindows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9pgpg_crcr-GenuineIntel   |25
-8-physical-8-logical-unameresultsystem=Linux-node=localhost-release=4.14.186-25578192-version=1-SMP-PREEMPT-Wed-Feb-8-161033-07-2023-machine=aarch64Linux-4.14.186-25578192-aarch64-with-libcaarch64   |9
-
+4-physical---4-logical-unameresult--system=Windows---node=DESKTOP-ORO7UJS---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3---GenuineIntel  |20 \2
 #-----------------------------------------------------------------------------------
 8-physical=M=cr=B=-8-logical-uname=M=cr=B=result=M=cr=B=system==M=cr=B=Linux=M=cr=B==M=cr=B=-node==M=cr=B=localhost=M=cr=B==M=cr=B=-release==M=cr=B=4.14.117-perf=M=cr=B==M=cr=B==M=cr=B=-version==M=cr=B=create2-SMP-PREEMPT-Wed-Nov-30-16=M=cr=B=27=M=cr=B=51-CST-2022=M=cr=B==M=cr=B=-machine==M=cr=B=aarch64=M=cr=B==M=cr=B=Linux-4.14.117-perf=M=cr=B=-aarch64-with-libcaarch64
 #--------test---------------------------------------------------------------------
