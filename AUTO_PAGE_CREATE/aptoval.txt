@@ -9,3 +9,4 @@
 2-physical-2-logical-unameresultsystem=Windows-node=DESKTOP-O0HM1SO-release=10-version=10.0.18363-machine=AMD64Windows-10-10.0.18363-SP0AMD64Intel64-Family-6-Model-23-Stepping-10-GenuineIntel
 #--------test---------------------------------------------------------------------
 2-physical---4-logical-unameresult--system=Windows---node=DESKTOP-TD2GMCQ---release=10---version=10.0.19045---machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-58-Stepping-9---GenuineIntel
+8-physical-16-logical-unameresultsystem=Windows-node=DESKTOP-7C4FNBL-release=11-version=10.0.22631-machine=AMD64Windows-11-10.0.22631-SP0AMD64AMD64-Family-25-Model-33-Stepping-2-AuthenticAMD
